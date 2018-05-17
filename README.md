@@ -59,7 +59,7 @@ fixed and open bugs, and to report new bugs.
 Equalizer is a cross-platform library, designed to run on any modern
 operating system, including all Unix variants and the Windows operating
 system. Equalizer requires at least [OpenGL 1.1](http://www.opengl.org),
-but uses newer OpenGL features when available. It requires a C++11
+but uses newer OpenGL features when available. It requires a C++14
 compiler and uses CMake to create a platform-specific build
 environment. The following platforms and build environments are tested:
 

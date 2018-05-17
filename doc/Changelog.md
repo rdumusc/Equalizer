@@ -3,6 +3,8 @@ Changelog {#Changelog}
 
 # git master
 
+* [643](https://github.com/Eyescale/Equalizer/pull/643)
+  Update to Deflect 1.0 API, requires a C++14 compiler.
 * [632](https://github.com/Eyescale/Equalizer/pull/632)
   Add uxmal: A ZeroBuf vocabulary and application for LOD and cull debugging
 
